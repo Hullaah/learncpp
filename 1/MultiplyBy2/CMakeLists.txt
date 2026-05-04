@@ -1,0 +1,2 @@
+add_executable(MultiplyBy2 MultiplyBy2.cpp)
+target_link_libraries(MultiplyBy2 PRIVATE project_warnings)
