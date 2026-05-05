@@ -1,2 +1,0 @@
-add_executable(PrintStandard PrintStandard.cpp)
-target_link_libraries(PrintStandard PRIVATE project_warnings)

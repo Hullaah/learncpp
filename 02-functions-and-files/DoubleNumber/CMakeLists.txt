@@ -1,0 +1,2 @@
+add_executable(DoubleNumber DoubleNumber.cpp)
+target_link_libraries(DoubleNumber PRIVATE project_warnings)

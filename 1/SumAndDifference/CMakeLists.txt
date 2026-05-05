@@ -1,2 +1,0 @@
-add_executable(SumAndDifference SumAndDifference.cpp)
-target_link_libraries(SumAndDifference PRIVATE project_warnings)
