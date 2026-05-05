@@ -28,5 +28,6 @@ target_compile_options(project_warnings INTERFACE
     -Werror
 )
 
-add_subdirectory(0)
-add_subdirectory(1)
+add_subdirectory(00-introduction)
+add_subdirectory(01-cpp-basics)
+
