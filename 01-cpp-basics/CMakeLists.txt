@@ -1,0 +1,2 @@
+add_subdirectory(MultiplyBy2)
+add_subdirectory(SumAndDifference)
