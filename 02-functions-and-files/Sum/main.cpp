@@ -1,17 +1,8 @@
 #include <iostream>
 
-int readNumber()
-{
-	int num;
-	std::cin >> num;
-	return num;
-}
+int readNumber();
 
-void writeAnswer(int ans)
-{
-	std::cout << "The sum of the numbers you inputted is " << ans
-		  << std::endl;
-}
+void writeAnswer(int ans);
 
 int main()
 {
