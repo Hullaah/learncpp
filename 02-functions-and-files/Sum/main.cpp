@@ -1,8 +1,5 @@
 #include <iostream>
-
-int readNumber();
-
-void writeAnswer(int ans);
+#include "io.h"
 
 int main()
 {
