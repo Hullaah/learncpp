@@ -1,0 +1,2 @@
+add_executable(BallFallSimulator BallFallSimulator.cpp)
+target_link_libraries(BallFallSimulator PRIVATE project_warnings)

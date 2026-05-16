@@ -31,3 +31,4 @@ target_compile_options(project_warnings INTERFACE
 add_subdirectory(00-introduction)
 add_subdirectory(01-cpp-basics)
 add_subdirectory(02-functions-and-files)
+add_subdirectory(04-fundamental-data-types)

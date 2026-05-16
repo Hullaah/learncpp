@@ -1,0 +1,3 @@
+add_subdirectory(Size)
+add_subdirectory(SimpleCalculator)
+add_subdirectory(BallFallSimulator)

@@ -1,0 +1,2 @@
+add_executable(SimpleCalculator SimpleCalculator.cpp)
+target_link_libraries(SimpleCalculator PRIVATE project_warnings)
